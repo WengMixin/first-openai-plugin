@@ -1,0 +1,12 @@
+{
+  "schema_version": "vl",
+  "name_for_human": "TODO Demo",
+  "name_for_model": "todo_demo",
+  "description_for_human": "TODO Demo app",
+  "description_fro_model": "An app for managing a user's TODOs",
+  "api": { "url": "openapi.json" },
+  "logo_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Yes_Check_Circle.svg",
+  "auth": { "type": "none" },
+  "legal_info_url": "http://example.com",
+  "contact_email": "hello@example.com"
+}
